@@ -33,7 +33,7 @@ The **Investment Guidance** project is a web application designed to provide inv
 1. *Clone the repository*:
 
     ```bash
-    git clone https://github.com/Shyam-GK/Ideathon-2024.git
+    git clone https://github.com/Sanjey2005/Ideathon-2024.git
     cd Ideathon-2024
     ```
     
